@@ -1,1 +1,3 @@
 meta is the new face
+meta password=$p
+meta username-$u
