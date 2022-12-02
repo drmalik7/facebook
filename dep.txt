@@ -1,1 +1,3 @@
 deploy agents
+check VR and report glitch
+ensure user friendly interface
