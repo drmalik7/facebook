@@ -3,3 +3,4 @@ check VR and report glitch
 ensure user friendly interface
 depoy into Dev environment
 deplyment1
+deployment
