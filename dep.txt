@@ -4,3 +4,4 @@ ensure user friendly interface
 depoy into Dev environment
 deplyment1
 deployment
+deploy into staging
