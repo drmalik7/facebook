@@ -1,3 +1,4 @@
 meta is the new face
 meta password=$p
 meta username-$u
+echo $u has $p as credentials
