@@ -1,6 +1,12 @@
-meta is the new face
-read password
+echo meta is the new face
+echo please enter name
 read name
-password=$p
-username-$u
-echo $u has $p as credentials
+echo please enter password
+read password
+echo $name has $password as access credentials
+date
+pwd
+echo enter third level code access
+read -s code
+echo $code accepted
+echo welcome back to the conference of millionaires
