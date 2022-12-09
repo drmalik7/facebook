@@ -1,4 +1,6 @@
 meta is the new face
-meta password=$p
-meta username-$u
+read password
+read name
+password=$p
+username-$u
 echo $u has $p as credentials
